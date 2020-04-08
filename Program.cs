@@ -10,7 +10,7 @@ namespace JustATest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is just a test v2!");
+            //Console.WriteLine("This is just a test v2!");
         }
     }
 }
